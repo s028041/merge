@@ -1,1 +1,8 @@
 Nieko
+export Default class App extends Component {
+render (){
+return (
+<View style = {style.text}>
+<Text> Labas </Text>
+</View>
+)};
